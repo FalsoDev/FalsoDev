@@ -15,3 +15,12 @@
 ![Website](www.urldanado.com)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FalsoDev/FalsoDev)
+
+### :zap: Mi actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+
